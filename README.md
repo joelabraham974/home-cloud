@@ -1,9 +1,9 @@
-# Home Cloud Server ☁️  
+# Home Cloud Server
 A personal cloud solution built by repurposing an old PC, running **Debian** with **CasaOS** for an intuitive dashboard and app management. This project provides **private cloud storage**, **VPN access** via **Tailscale**, and **self-hosted services** using **Docker containers**.
 
 ---
 
-## 🖥️ Setup Overview  
+## Setup Overview  
 - Installed **Debian** on an old PC to create a lightweight, stable server environment  
 - Installed **CasaOS** for a user-friendly web interface to manage apps and containers  
 - Deployed **Docker** containers for various services (**Nextcloud**, media servers, etc.)  
@@ -12,7 +12,7 @@ A personal cloud solution built by repurposing an old PC, running **Debian** wit
 
 ---
 
-## 🔧 Features  
+## Features  
 - **Private Cloud Storage** – Host your files with full control and privacy  
 - **VPN Access (Tailscale)** – Securely connect to your home network from anywhere  
 - **Self-Hosted Apps** – Installed apps like **Nextcloud**, **Plex**, and more using CasaOS  
@@ -21,7 +21,7 @@ A personal cloud solution built by repurposing an old PC, running **Debian** wit
 
 ---
 
-## 🛠 Technologies Used  
+## Technologies Used  
 - **Debian Linux** (Server OS)  
 - **CasaOS** (UI & container management)  
 - **Docker**  
@@ -30,12 +30,12 @@ A personal cloud solution built by repurposing an old PC, running **Debian** wit
 
 ---
 
-## 📸 Screenshots  
+## Screenshots  
 *(Add screenshots of CasaOS dashboard, Tailscale interface, and Docker containers here)*  
 
 ---
 
-## 👨‍💻 My Role  
+## My Role  
 - Set up Debian and configured system for server use  
 - Installed and configured **CasaOS** for container and app management  
 - Deployed **Nextcloud** and other self-hosted services  
@@ -44,5 +44,5 @@ A personal cloud solution built by repurposing an old PC, running **Debian** wit
 
 ---
 
-## 🚀 Why I Built This  
+## Why I Built This  
 To create a **secure, private, and cost-effective home cloud solution** without relying on third-party providers, while learning more about **Linux administration**, **networking**, and **containerization** with Docker.  
